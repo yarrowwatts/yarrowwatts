@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I’m Yarrow 👋
 
-<!--
-**yarrowwatts/yarrowwatts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! This is where I’m organizing my coding journey — school assignments, freelance projects, and personal experiments.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 School Projects
+*(Coming soon — coursework and assignments will go here)*
+
+---
+
+## 💼 Work Projects
+*(Coming soon — freelance and client projects will go here)*
+
+---
+
+## 🌱 Personal Projects
+*(Coming soon — fun experiments and side projects will go here)*
+
+---
+
+✨ Check back as I add more projects — I’ll pin highlights below!
