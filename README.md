@@ -5,7 +5,7 @@ Welcome to my GitHub! This is where I’m organizing my coding journey — schoo
 ---
 
 ## 🎓 School Projects
-*[(Coming soon — coursework and assignments will go here)](https://yarrowwatts.github.io/school-SAO294-pet-fostering/)*
+*[Simple HTML/CSS Build - Pet Fostering Page](https://yarrowwatts.github.io/school-SAO294-pet-fostering/)*
 
 ---
 
