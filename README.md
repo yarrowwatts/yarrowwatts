@@ -5,9 +5,8 @@ Welcome to my GitHub! This is where I’m organizing my coding journey — schoo
 ---
 
 ## 🎓 School Projects
-*[Simple HTML/CSS Build - Pet Fostering Page](https://yarrowwatts.github.io/school-SAO294-pet-fostering/)*
-
----
+*[Simple HTML/CSS Build - Pet Fostering Page](https://yarrowwatts.github.io/school-SAO294-pet-fostering/)*<br>
+*[Figma UX Protoytype - Skincare App](https://ywatts-ceraveskinlab.figma.site)*
 
 ## 💼 Work Projects
 *(Coming soon — freelance and client projects will go here)*
