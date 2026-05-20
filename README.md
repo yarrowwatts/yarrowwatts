@@ -9,7 +9,7 @@ Welcome to my GitHub! This is where I’m organizing my coding journey — schoo
 *[Figma UX Protoytype - Skincare App](https://ywatts-ceraveskinlab.figma.site)*
 
 ## 💼 Work Projects
-[Law Firm Website Rebuild in Squarespace with Custom Coding and Graphic Design (logo)](http://www.emissarylaw.com
+[Law Firm Website Rebuild in Squarespace with Custom Coding and Graphic Design (logo)](http://www.emissarylaw.com)
 
 ---
 
