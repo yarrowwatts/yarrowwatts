@@ -7,6 +7,7 @@ Welcome to my GitHub! This is where I’m organizing my coding journey — schoo
 ## 🎓 School Projects
 *[Simple HTML/CSS Build - Pet Fostering Page](https://yarrowwatts.github.io/school-SAO294-pet-fostering/)*<br>
 *[Figma UX Protoytype - Skincare App](https://ywatts-ceraveskinlab.figma.site)*
+*[Responsive HTML/CSS Build - Fictional Dog Groomer](https://yarrowwatts.github.io/Watts-4-Build/)*
 
 ## 💼 Work Projects
 [Law Firm Website Rebuild in Squarespace with Custom Coding and Graphic Design (logo)](http://www.emissarylaw.com)
